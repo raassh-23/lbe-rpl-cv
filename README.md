@@ -1,2 +1,2 @@
 # lbe-rpl-cv
-CV untuk pengusana LBE RPL
+CV untuk penugasan LBE RPL

@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    font-size: 1.25em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+.bg-dark {
+    background-color: #3b5249 !important;
+}
+
+.foto {
+    border-radius: 50%;
+    border: 4px solid #ebecf1;
+}
+
+.text-light {
+    color: #ebecf1 !important;
+}
+
+em {
+    font-style: normal;
+    border-bottom: 2px solid #ebecf1;
+}
+
+.border-bottom {
+    border-width: 0.5em !important;
+    border-color: #519872 !important;
+}
+
+.bg-light {
+    background-color: #ebecf1 !important;
+}
+
+.text-dark {
+    color: #3b5249 !important;
+}
+
+.card {
+    background-color: #ebecf1 !important;
+    border: 0px;
+    border-bottom: 2px solid #519872 !important;
+}
+
+.no-border {
+    border-bottom: 0px !important;
+}
+
+.skill-item {
+    font-size: 3em;
+}
+
+dl {
+    font-size: 1.25em;
+}
+
+.year {
+    padding-right: 1em;
+}
+
+.link-game {
+    color: #519872;
+}
+
+.contacts-icon {
+    padding-right: 1em;
+}
+
+.btn-light {
+    background-color: #519872 !important;
+    color: #3b5249 !important;
+}
+
+.btn-light:hover {
+    background-color: #3b5249 !important;
+    color: #519872 !important;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
+@media (max-width: 992px) {
+    .foto {
+        max-width: 30% !important;
+        margin-bottom: 1em; 
+    }
+}
