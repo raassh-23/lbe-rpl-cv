@@ -69,6 +69,10 @@ dl {
     color: #519872;
 }
 
+.link-game:hover {
+    color: #3b5249;
+}
+
 .contacts-icon {
     padding-right: 1em;
 }
